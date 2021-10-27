@@ -1,0 +1,13 @@
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.exe
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.deps.json
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.json
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.dev.json
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfoInputs.cache
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfo.cs
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\Ego\repos\IterationStatements\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.genruntimeconfig.cache
